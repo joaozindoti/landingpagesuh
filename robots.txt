@@ -1,0 +1,6 @@
+User-agent: *
+Allow: /
+Disallow: /_backup/
+Disallow: /src/
+
+Sitemap: https://www.fonosuellealves.com.br/sitemap.xml
